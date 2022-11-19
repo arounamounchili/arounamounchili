@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arounamounchili
 - 👀 I’m interested in Embedded Systems development
-- 🌱 I’m currently learning App development with Flutter
+- 🌱 I’m currently learning the Python Programming language
 - 💞️ I’m looking to collaborate on any kind of open source project
 - 📫 How to reach me ...
 
