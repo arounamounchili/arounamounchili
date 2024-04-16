@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arounamounchili
-- 👀 I’m interested in Embedded Systems, IoT and Firmware development
-- 🌱 I’m currently learning the Hardware Product developement
+- 👀 I’m interested in Embedded Systems, Software development and Game Design
+- 🌱 I’m currently learning the Game development
 - 💞️ I’m looking to collaborate on any kind of open source project
 - 📫 How to reach me ...
 
