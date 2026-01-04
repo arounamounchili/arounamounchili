@@ -36,8 +36,8 @@ I am a software developer specializing in **C++** and **Embedded Systems**, driv
 <p align="center"><b>Professional Blender extension for Robotics Simulation.</b></p>
 <div align="center">
   
-- **Impact**: Streamlining the transition from 3D models to simulation-ready URDFs.
-- **Tech**: Python, Blender API, Matrix Transformations.
+Streamlining the transition from 3D models to simulation-ready URDFs.<br/>
+*Python, Blender API, Matrix Transformations.*
   
 </div>
 
