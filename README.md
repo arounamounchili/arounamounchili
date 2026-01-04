@@ -32,7 +32,7 @@ I am a software developer specializing in **C++** and **Embedded Systems**, driv
 
 ---
 
-<h3 align="center">🌟 Flagship Project: [LinkForge](https://github.com/arounamounchili/linkforge)</h3>
+<h3 align="center">🌟 Flagship Project: <a href="https://github.com/arounamounchili/linkforge">LinkForge</a></h3>
 <p align="center"><b>Professional Blender extension for Robotics Simulation.</b></p>
 <div align="center">
   
@@ -55,10 +55,10 @@ Streamlining the transition from 3D models to simulation-ready URDFs.<br/>
 <h3 align="center">📫 Connect & Collaborate</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/arouna-patouossa-mounchili">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:patouossa.mounchili@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
 
