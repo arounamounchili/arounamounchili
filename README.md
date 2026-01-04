@@ -17,34 +17,33 @@ I am a software developer specializing in **C++** and **Embedded Systems**, driv
 
 ---
 
-### 🛠️ Technical Arsenal
+<h3 align="center">🛠️ Technical Arsenal</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</div>
 
 | | |
 | :--- | :--- |
-| **Languages** | `C++`, `C`, `Python`, `JavaScript`, `Bash` |
-| **Embedded** | `Firmware`, `RTOS`, `SPI/I2C/CAN`, `STM32`, `ESP32` |
-| **3D & Sim** | `Blender API`, `URDF/XACRO`, `Gazebo` |
-| **Tooling** | `CMake`, `GitHub Actions`, `uv`, `Git` |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Embedded** | ![Firmware](https://img.shields.io/badge/Firmware-1DB9C3?style=flat-square) ![RTOS](https://img.shields.io/badge/RTOS-1DB9C3?style=flat-square) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Robotics** | ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FFD500?style=flat-square&logo=robot-framework&logoColor=black) ![URDF](https://img.shields.io/badge/URDF/XACRO-1DB9C3?style=flat-square) |
+| **Tooling** | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![uv](https://img.shields.io/badge/uv-1DB9C3?style=flat-square) |
+
+</div>
 
 ---
 
-### 🌟 Flagship Project: [LinkForge](https://github.com/arounamounchili/linkforge)
-**Professional Blender extension for Robotics Simulation.**
+<h3 align="center">🌟 Flagship Project: [LinkForge](https://github.com/arounamounchili/linkforge)</h3>
+<p align="center"><b>Professional Blender extension for Robotics Simulation.</b></p>
+<div align="center">
+  
 - **Impact**: Streamlining the transition from 3D models to simulation-ready URDFs.
 - **Tech**: Python, Blender API, Matrix Transformations.
+  
+</div>
 
 ---
 
-### 📊 GitHub Insights
+<h3 align="center">📊 GitHub Insights</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arounamounchili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
@@ -53,7 +52,7 @@ I am a software developer specializing in **C++** and **Embedded Systems**, driv
 
 ---
 
-### 📫 Connect & Collaborate
+<h3 align="center">📫 Connect & Collaborate</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/arouna-patouossa-mounchili">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
