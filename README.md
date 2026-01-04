@@ -45,9 +45,9 @@ Streamlining the transition from 3D models to simulation-ready URDFs.<br/>
 
 <h3 align="center">📊 GitHub Insights</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arounamounchili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=arounamounchili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arounamounchili&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=arounamounchili&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
