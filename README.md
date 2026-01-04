@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="profile_banner_robotics.png" width="1000" alt="Robotics & Simulation Banner">
+  <img src="profile_banner_robotics.png" width="1000" height="200" style="object-fit: cover;" alt="Robotics & Simulation Banner">
   
-  # Hi there, I'm Arouna! 👋
+  # Arouna Patouossa Mounchili
   
-  ### 📟 C++ & Embedded Systems Developer | 🤖 Robotics & Simulation
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DB9C3&center=true&vCenter=true&width=600&lines=Building+the+Bridge;From+Hardware+to+Simulation;Maintainer+of+LinkForge;Exploring+Robotics+%26+PCB+Design)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1DB9C3&center=true&vCenter=true&width=600&lines=Building+the+Bridge;From+Hardware+to+Simulation;Maintainer+of+LinkForge;C%2B%2B+%26+Embedded+Systems+Developer;Robotics+Tooling+%26+Simulation)](https://git.io/typing-svg)
 </div>
 
 ---
