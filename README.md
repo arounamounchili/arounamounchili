@@ -27,7 +27,7 @@ A professional Blender extension for exporting robot models to URDF/XACRO.
 ---
 
 ## 📊 GitHub Stats
-![Arouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=arounamounchili&show_icons=true&theme=tokyonight)
+![Arouna Stats](https://github-readme-stats.vercel.app/api?username=arounamounchili&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arounamounchili&layout=compact&theme=tokyonight)
 
 ---
