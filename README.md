@@ -1,16 +1,15 @@
 # Hi there, I'm Arouna! 👋
 
-### 📟 C++ & Embedded Systems Developer | 🐍 Python Hobbyist | 🤖 Robotics Learner
+### 📟 C++ & Embedded Systems Developer | 🐍 Python Hobbyist | 🤖 Robotics & Simulation
 
-I am a software developer with a strong foundation in **C++** and **Embedded Systems**. I enjoy exploring the intersection of low-level hardware control and high-level 3D design. Currently, I am expanding my skills into the world of **Robotics** and **PCB Design**.
+I am a software developer specializing in **C++** and **Embedded Systems**. I am passionate about the intersection of low-level hardware control and 3D simulation. Currently, I am expanding my expertise into **Robotics** and **PCB Design**.
 
 ---
 
-## 🚀 Projects
-### [LinkForge](https://github.com/arounamounchili/linkforge)
-A professional Blender extension for exporting robot models to URDF/XACRO. 
+## 🚀 Flagship Project: [LinkForge](https://github.com/arounamounchili/linkforge)
+**LinkForge** is a professional Blender extension for exporting robot models to URDF/XACRO. 
 - 🛠️ **Maintainer**: Building tools to bridge the gap between 3D modeling and robotics simulation.
-- 🧪 **Tech**: Python, Blender API, URDF, XACRO.
+- 🧪 **Bridge**: Combining my Embedded background with high-level Python/Blender automation.
 
 ---
 
@@ -18,20 +17,16 @@ A professional Blender extension for exporting robot models to URDF/XACRO.
 
 | Category | Skills & Tools |
 | :------- | :------------- |
-| **Development** | C++, C, Python, Bash |
-| **Embedded** | Firmware Development, System Integration |
-| **Hardware** | PCB Design (Hobbyist), Electronics |
-| **3D & Robotics** | Blender API, URDF/XACRO (Learning), Simulation |
-| **DevOps** | GitHub Actions, Git, `uv`, Pre-commit |
+| **Languages** | C++, C, Python, Bash, HTML/CSS |
+| **Embedded** | Firmware Development, System Integration, RTOS |
+| **Hardware** | PCB Design (Hobbyist), Electronics, Prototyping |
+| **3D & Robotics** | Blender API, URDF/XACRO, Simulation Pipelines |
+| **Tooling** | Git, GitHub Actions, `uv`, CMake, Pre-commit |
 
 ---
 
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Performance
 ![Metrics](https://metrics.lecoq.io/arounamounchili?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FParis)
-
----
 
 ---
 
