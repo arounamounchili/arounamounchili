@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile_banner_robotics.png" width="800" alt="Robotics & Simulation Banner">
+  <img src="profile_banner_robotics.png" width="1000" alt="Robotics & Simulation Banner">
   
   # Arouna Patouossa Mounchili
   
