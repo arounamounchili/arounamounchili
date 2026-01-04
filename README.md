@@ -25,8 +25,11 @@ I am a software developer specializing in **C++** and **Embedded Systems**. I am
 
 ---
 
-## 📊 GitHub Performance
-![Metrics](https://metrics.lecoq.io/arounamounchili?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FParis)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arounamounchili&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arounamounchili&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
