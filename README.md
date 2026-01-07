@@ -43,9 +43,6 @@ Streamlining the transition from 3D models to simulation-ready URDFs.<br/>
 
 ---
 
-
-
-
 <h3 align="center">📫 Connect & Collaborate</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/arouna-patouossa-mounchili">
