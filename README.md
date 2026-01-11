@@ -3,7 +3,7 @@
   
   # Arouna Patouossa Mounchili
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1DB9C3&center=true&vCenter=true&width=600&lines=Building+the+Bridge;From+Hardware+to+Simulation;Maintainer+of+LinkForge;C%2B%2B+%26+Embedded+Systems+Developer;Robotics+Tooling+%26+Simulation)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1DB9C3&center=true&vCenter=true&width=600&lines=Software+Developer;Building+Simulation-Ready+Robots;Maintainer+of+LinkForge;C%2B%2B+%26+Embedded+Systems;Hardware+to+Simulation)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -33,11 +33,11 @@ I am a software developer specializing in **C++** and **Embedded Systems**, driv
 ---
 
 <h3 align="center">🌟 Flagship Project: <a href="https://github.com/arounamounchili/linkforge">LinkForge</a></h3>
-<p align="center"><b>Professional Blender extension for Robotics Simulation.</b></p>
+<p align="center"><b>Build Simulation-Ready Robots in Blender</b></p>
 <div align="center">
   
-Streamlining the transition from 3D models to simulation-ready URDFs.<br/>
-*Python, Blender API, Matrix Transformations.*
+Professional URDF/XACRO exporter with validation, sensors, and ros2_control support.<br/>
+*Python, Blender API, ROS 2 Integration*
   
 </div>
 
