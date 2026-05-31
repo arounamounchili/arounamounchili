@@ -11,9 +11,9 @@
 ### 🚀 About Me
 I am a software developer specializing in **C++** and **Embedded Systems**, driven by the challenge of bridging low-level hardware control with high-level 3D simulation. 
 
-- 🛠️ Creator and maintainer of **LinkForge**, a robust bridge between Blender and Robotics.
+- 🛠️ Creator and maintainer of **LinkForge**, a programmable robot description engine for programmatic composition, headless validation, and 3D visual design.
 - 🤖 Expanding expertise into **ROS2**, **SLAM**, and **PCB Design**.
-- 🧪 Passionate about automation and precision in robotics pipelines.
+- 🧪 Passionate about automation, scientific physical integrity, and precision in robotics pipelines.
 
 ---
 
@@ -33,11 +33,11 @@ I am a software developer specializing in **C++** and **Embedded Systems**, driv
 ---
 
 <h3 align="center">🌟 Flagship Project: <a href="https://github.com/arounamounchili/linkforge">LinkForge</a></h3>
-<p align="center"><b>Build Simulation-Ready Robots in Blender</b></p>
+<p align="center"><b>The Programmable Robot Description Engine</b></p>
 <div align="center">
   
-Professional URDF/XACRO exporter with validation, sensors, and ros2_control support. Streamlining the transition from 3D models to simulation-ready URDFs with advanced XML structure preservation.<br/>
-*Python, Blender API, ROS 2 Integration, Matrix Transformations*
+A modern, hexagonal-architecture platform that treats robots as source code rather than static XML documents. Combines a zero-dependency **headless core** for cluster-scale RL training and automated CI linting with a **Blender Visual Designer** for 3D engineering and physics-based validation.<br/>
+*Python, C++, Hexagonal Architecture, Rigid-Body Physics, ROS 2 & MoveIt 2*
   
 </div>
 
